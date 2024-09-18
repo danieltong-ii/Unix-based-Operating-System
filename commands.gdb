@@ -1,0 +1,10 @@
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/main/gdt.gdb
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/mm/pagetable.gdb
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/mm/page.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/mm/memcheck.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/mm/slab.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/proc/kthread.gdb
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/proc/proc.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/util/debug.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/util/list.py
+source /home/student/Desktop/K3_23Apr_Submission/weenix/kernel/vm/vmmap.gdb
